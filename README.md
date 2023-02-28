@@ -4,5 +4,6 @@ De progracion
 - 🌱 Actualmente estoy ampliando mis conocimientos 
 En python
 - 💞️ Deseo poder trabajar/colaborar en un equipo de trabajo
-- 📫 contacto Jeisonrosario5@gmail.com/+56934644131
+- 📫 contacto developer@jeisonrosariodev.com / +56934644131 / https://jeisonrosariodev.com/
+- 
 
