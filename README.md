@@ -11,9 +11,9 @@
     <img style="width:100px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_qM8GT-g6fLeLQPUlD4ggUECtAb0XkuNUg&usqp=CAU">
   </a>
 </p>
-:email: Email: developer@jeisonrosariodev.com
+:email: Email: jeisonrosario5@gmail.com
 
-:scroll: Portafolio: https://jeisonrosariodev.com/
+:scroll: Whatsapp: +56 301 6081234
 
 ## Lenguajes y herramientas
 
